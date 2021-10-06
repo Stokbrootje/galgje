@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|e|e|s|e|
+|c|h|e|e|s|e|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
@@ -16,4 +16,5 @@
 3. R incorrect
 4. T incorrect
 5. S correct
-6. cheese
+6. cheese correct
+
