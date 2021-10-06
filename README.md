@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|e|e|.|.|
+|.|.|e|e|s|.|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
@@ -15,4 +15,4 @@
 2. G incorrect
 3. R incorrect
 4. T incorrect
-5. S
+5. S correct
